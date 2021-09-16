@@ -1,6 +1,6 @@
 # Weather-App
 
-An app to research the weather for you. 
+An app to research the weather, using OpenWeatherMap API. 
 
 Features:
 

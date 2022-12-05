@@ -12,5 +12,4 @@ Features:
 You will need the Tkinter and the requests libraries
 
 # Screenshot:
-
-![image](https://user-images.githubusercontent.com/74102654/131454459-a76bcc3a-8e1c-45e2-8a96-8c2c5b81ca91.png)
+![Screenshot 2022-12-05 at 5 22 24 PM](https://user-images.githubusercontent.com/74102654/205631302-0ce02fa2-deac-419d-bd98-f75b948f0dd6.png)
